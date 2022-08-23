@@ -1,0 +1,57 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+    padding: 10px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+#top-banner{
+    text-align: center;
+    color: white;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+}
+#dontate-today{
+    text-align: center;
+}
+#taka{
+    display:flex;
+
+}
+.amount{
+    height: 100px;
+    width: 20%;
+    margin: 5%;
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 2%;
+}
+#plan-divs{
+    display: flex;
+}
+.icons{
+    width: 30%;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 2%;
+    background-color: aqua;
+}
+footer{
+    font-family: initial;
+    color: #FF5959;
+    background-color: black;
+}
